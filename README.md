@@ -4,7 +4,6 @@ This contains of case study which topics are :
 1. Iteration
 
    Case 1 : BinaryGaps
-So forth.
 2. Array
 3. Data Structure
 
